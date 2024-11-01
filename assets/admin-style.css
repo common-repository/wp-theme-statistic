@@ -1,0 +1,12 @@
+.plugin-info{
+	background: #FFFFFF;
+	height: auto;
+	padding: 5px;
+	margin-left: -20px;
+	margin-bottom: 50px;
+}
+
+.plugin-info  .container{
+	margin-left: 10px;
+	height: auto;
+}
